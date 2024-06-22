@@ -1,2 +1,2 @@
 # PrimerParcialIP
-Resolución por profesores del primer parcial de Haskell
+Resolución por profesores del primer parcial en Haskell
